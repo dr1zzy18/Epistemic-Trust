@@ -1,5 +1,5 @@
 Name: DAKSH RAMESH CHAWLA
-Student ID: 220718392
+
 
 Social Human-Robot Interaction Package
 This package contains four nodes that generate human info, object info, perceived info and robot info.
