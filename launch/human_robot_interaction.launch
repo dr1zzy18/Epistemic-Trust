@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="epistemic" name="informationGenerator" type="information_generator.py"/>
+	<node pkg="epistemic" name="perceptionFilter" type="perception_filter.py"/>
+	<node pkg="epistemic" name="choiceController" type="choice_controller.py"/>
+	<node pkg="epistemic" name="choicePrediction" type="choice_prediction.py"/>
+</launch>
